@@ -1,0 +1,17 @@
+@import './reset';
+
+body,
+#root {
+  // 全局字体
+  font-family: -apple-system, PingFang SC, Hiragino Sans GB, Arial,
+    Microsoft YaHei, Helvetica Neue, sans-serif;
+}
+
+// theme ===================
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  font-weight: bold;
+}
