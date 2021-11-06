@@ -1,0 +1,24 @@
+{
+  "name": "lark-note",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "release": "standard-version",
+    "release:major": "standard-version -- --release-as major",
+    "release:minor": "standard-version -- --release-as minor",
+    "release:patch": "standard-version -- --release-as patch"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@honkhonk/vite-plugin-svgr": "^1.1.0",
+    "@vitejs/plugin-react": "^1.0.7",
+    "sass": "^1.43.4",
+    "standard-version": "^9.3.2",
+    "vite": "^2.6.13"
+  }
+}
