@@ -29,7 +29,7 @@ export default function App() {
         </div>
         <div className='row'>
           <div className='col'>
-            <a target="_blank" rel="noopener noreferrer" href="http://www.beian.miit.gov.cn">苏ICP备20005080号-2</a>
+            <a target="_blank" rel="noopener noreferrer" href="https://beian.miit.gov.cn">苏ICP备20005080号-2</a>
           </div>
         </div>
     </footer>
