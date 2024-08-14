@@ -1,4 +1,4 @@
-import Brand from './mark24_brand.svg?component'
+import Brand from './mark24_brand.svg?react'
 import './app.scss'
 
 export default function App() {
@@ -6,7 +6,7 @@ export default function App() {
     <div className='home-page container'>
       <div className='brand row'>
         <div className="col brand">
-          <Brand  />
+          <Brand />
         </div>
       </div>
       <div className='row'>
